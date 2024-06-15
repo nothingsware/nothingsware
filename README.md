@@ -6,6 +6,6 @@ I am up for hire if you want to contact me my discord is brennen_n,
 
 Skills: Luau/ JS / HTML / CSS / Python / Lua
 
-- 🔭 I’m currently working on Kultum. 
+- 🔭 I’m currently working on websites. 
 - 🌱 I’m currently learning c++ and c#
 
